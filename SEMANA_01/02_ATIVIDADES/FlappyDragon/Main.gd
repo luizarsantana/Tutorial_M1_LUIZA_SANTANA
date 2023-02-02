@@ -1,9 +1,9 @@
 extends Node # instancia a classe Node2D
 
-var status = 1
-var vscore = 0
-var x = 1.5 
-var y = 1.5 
+var status = 1 # controla a jogabilidade do usuário
+var vscore = 0 # 
+var x = 2 # variável da velocidade do dragão
+var y = 1.5 # variável da gravidade
 
 # executa essa função ao carregar o jogo
 func _ready():
