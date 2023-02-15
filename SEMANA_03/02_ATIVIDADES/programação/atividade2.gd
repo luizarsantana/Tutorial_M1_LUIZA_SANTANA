@@ -1,8 +1,8 @@
 extends Node2D
 
-var lista1 = [1,2,3]
+var lista1 = [1,2,3] 
 var insira_lista = []
-var texto1 = ('bananas são amarelas')
+var texto1 = ('olá mundo')
 var insira_texto
 
 
