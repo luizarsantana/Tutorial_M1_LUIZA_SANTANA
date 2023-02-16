@@ -40,22 +40,22 @@ margin_right = 426.0
 margin_bottom = 152.0
 
 [node name="lista2" type="Label" parent="."]
-margin_left = 520.0
-margin_top = 193.0
-margin_right = 652.0
-margin_bottom = 266.0
+margin_left = 505.0
+margin_top = 194.0
+margin_right = 637.0
+margin_bottom = 267.0
 
 [node name="texto1" type="Label" parent="."]
-margin_left = 296.0
-margin_top = 326.0
-margin_right = 428.0
-margin_bottom = 399.0
+margin_left = 297.0
+margin_top = 325.0
+margin_right = 429.0
+margin_bottom = 398.0
 
 [node name="texto2" type="Label" parent="."]
-margin_left = 507.0
-margin_top = 462.0
-margin_right = 639.0
-margin_bottom = 535.0
+margin_left = 499.0
+margin_top = 454.0
+margin_right = 631.0
+margin_bottom = 527.0
 
 [node name="insira_lista" type="LineEdit" parent="."]
 margin_left = 298.0
